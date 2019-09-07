@@ -1,2 +1,2 @@
-# js-play1
-js-play
+# Js-Play
+small scrips in js
